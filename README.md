@@ -11,8 +11,6 @@ hf_oauth: true
 Chainlit Base
 ===========
 
-To run locally, 
-
 Clone the repository from: https://github.com/DL4DS/dl4ds_tutor    
 
 Change the branch to the `chainlit_base` branch.
