@@ -15,7 +15,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 You can find an implementation of the Tutor at https://dl4ds-dl4ds-tutor.hf.space/, which is hosted on Hugging Face [here](https://huggingface.co/spaces/dl4ds/dl4ds_tutor)
 
-To run locally, 
+To run the program locally, 
 
 Clone the repository from: https://github.com/DL4DS/dl4ds_tutor    
 
