@@ -8,7 +8,7 @@ load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 HUGGINGFACE_TOKEN = os.getenv("HUGGINGFACE_TOKEN")
 
-opening_message = "Hello! You can ask me questions about the SCC at Boston University."
+opening_message = "Hello! You can ask me questions about the MSDS program at Boston University."
 
 # Prompt Templates
 
@@ -77,5 +77,5 @@ Question: {question}
 
 # Model Paths
 
-LLAMA_PATH = "storage/models/tinyllama-1.1b-chat-v1.0.Q5_K_M.gguf"
+LLAMA_PATH = "storage/models/tinyllama-1.1b-chat-v0.3.Q5_K_M.gguf"
 MISTRAL_PATH = "storage/models/mistral-7b-v0.1.Q4_K_M.gguf"

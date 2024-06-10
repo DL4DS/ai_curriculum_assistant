@@ -16,7 +16,7 @@ llm_params:
   openai_params:
     model: 'gpt-4' # str [gpt-3.5-turbo-1106, gpt-4]
   local_llm_params:
-    model: "storage/models/llama-2-7b-chat.Q4_0.gguf"
+    model: "storage/models/tinyllama-1.1b-chat-v0.3.Q5_K_M.gguf"
     model_type: "llama"
     temperature: 0.2
 splitter_options:
