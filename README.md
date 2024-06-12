@@ -23,7 +23,7 @@ Put your data under the `storage/data` directory. Note: You can add urls in the 
 
 > Note: The 'WebpageCrawler' in `code/modules/helpers.py` takes in the urls from the `storage/data/urls.txt` file, and gets all children urls and files from the urls provided. If you want to read only the data in the urls provided, set `["embedding_options"]["expand_urls"]` to False in the `code/config.yaml` file.
 
-To run locally:
+To run the code locally:
 
 To create the Vector Database, run the following command:   
 ```python code/modules/vector_db.py```    
