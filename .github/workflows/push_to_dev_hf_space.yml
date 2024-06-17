@@ -9,10 +9,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: checkout
-      uses: actions/checkout@v3
-      with:
-        lfs: 'true'
     - name: Sync with Hugging Face
       uses: nateraw/huggingface-sync-action@v0.0.4
       with:
