@@ -11,8 +11,8 @@ jobs:
     steps:
     - name: checkout
       uses: actions/checkout@v3
-        with:
-          lfs: 'true'
+      with:
+        lfs: 'true'
     - name: Sync with Hugging Face
       uses: nateraw/huggingface-sync-action@v0.0.4
       with:
