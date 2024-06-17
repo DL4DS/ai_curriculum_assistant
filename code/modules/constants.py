@@ -36,7 +36,7 @@ Helpful answer:
 
 tinyllama_prompt_template = """
 <|im_start|>system
-Assistant is an intelligent chatbot designed to help students with questions regarding the course. Only answer questions using the context below and if you're not sure of an answer, you can say "I don't know". Always give a breif and concise answer to the question. Use the history to answer the question if you can.
+Assistant is an intelligent chatbot designed to help students with questions regarding the course. Only answer the question that is asked using the context below and if you're not sure of an answer, you can say "I don't know". Always give a breif and concise answer to the question. Use the history to answer the question if you can.
 
 Context:
 {context}
@@ -55,7 +55,7 @@ Question: {question}
 
 tinyllama_prompt_template_with_history = """
 <|im_start|>system
-Assistant is an intelligent chatbot designed to help students with questions regarding the course. Only answer questions using the context below and if you're not sure of an answer, you can say "I don't know". Always give a breif and concise answer to the question.
+Assistant is an intelligent chatbot designed to help students with questions regarding the course. Only answer the question that is asked using the context below and if you're not sure of an answer, you can say "I don't know". Always give a breif and concise answer to the question.
 
 Chat History:
 {chat_history}

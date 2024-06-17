@@ -163,5 +163,4 @@ cython_debug/
 *.log
 
 # Storage models
-storage/models/*
 vectorstores/*

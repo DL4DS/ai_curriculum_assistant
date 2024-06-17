@@ -54,13 +54,13 @@ auto_tag_thread = true
 
 [UI]
 # Name of the app and chatbot.
-name = "AI Curriculum Advisor"
+name = "Chatbot"
 
 # Show the readme while the thread is empty.
 show_readme_as_default = true
 
 # Description of the app and chatbot. This is used for HTML tags.
-# description = "AI Curriculum Advisor"
+# description = ""
 
 # Large size content are by default collapsed for a cleaner ui
 default_collapse_content = true
@@ -76,7 +76,7 @@ hide_cot = false
 
 # Specify a CSS file that can be used to customize the user interface.
 # The CSS file can be served from the public directory or via an external link.
-custom_css = "/public/test.css"
+# custom_css = "/public/test.css"
 
 # Specify a Javascript file that can be used to customize the user interface.
 # The Javascript file can be served from the public directory.
@@ -108,13 +108,13 @@ custom_css = "/public/test.css"
 
 # Override default MUI dark theme. (Check theme.ts)
 [UI.theme.dark]
-    background = "#1C1C1C" # Slightly lighter dark background color
-    paper = "#2A2A2A"      # Slightly lighter dark paper color
+    #background = "#FAFAFA"
+    #paper = "#FFFFFF"
 
     [UI.theme.dark.primary]
-        main = "#89CFF0"    # Primary color
-        dark = "#3700B3"    # Dark variant of primary color
-        light = "#CFBCFF"   # Lighter variant of primary color
+        #main = "#F80061"
+        #dark = "#980039"
+        #light = "#FFE7EB"
 
 
 [meta]
