@@ -54,13 +54,13 @@ auto_tag_thread = true
 
 [UI]
 # Name of the app and chatbot.
-name = "SCC Sherpa"
+name = "AI Curriculum Advisor"
 
 # Show the readme while the thread is empty.
 show_readme_as_default = true
 
 # Description of the app and chatbot. This is used for HTML tags.
-# description = "SCC Guide"
+# description = "AI Curriculum Advisor"
 
 # Large size content are by default collapsed for a cleaner ui
 default_collapse_content = true
