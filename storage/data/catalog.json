@@ -1,0 +1,757 @@
+{
+    "courses": [
+        {
+            "course_id": 1,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 100,
+            "course_name": "Data Speaks Louder Than Words",
+            "course_abstract": "This course introduces students to three perspectives that are fundamental to  their ability to reason with data: critical thinking, inferential thinking, and  computational thinking. Through data modeling and visualization, students will  construct and communicate arguments that are rooted in data. The course expects  only basic computer knowledge and teaches concepts and skills in computer  programming (Python), linear regression, and statistical inference. The course  delves into dilemmas surrounding data analysis, such as balancing individual  privacy and social utility, and prepares students for the data driven world all  around us. Students with interests from politics to sports, finance to journalism,  entrepreneurship to smart cities, etc., can use the knowledge of data science they  gain in this class to enhance those interests. Not to mention a grounding for  students who want to pursue the field of data science itself. Effective Fall 2021, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry 1, Digital/Multimedia Expression, Research and Information Literacy.",
+            "prereqs": [],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+        }
+        {
+            "course_id": 2,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 110,
+            "course_name": "Introduction to Data Science with Python",
+            "course_abstract": "CDS DS 110 is the first in a two-course sequence (leading to CDS DS 210) that   builds students' competence   in computing techniques central to data science.   Students will use Python to explore fundamental CS  concepts and processes used  in  data science with a focus on descriptive data analysis, including data    structures, development of  functions and more advanced recursion, object- oriented  programming, data  processing and data  visualization. Numpy, pandas,  and  matplotlib will be used to analyze real-world data. Prior experience with  Python  is not required.  ",
+            "prereqs": [],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+        }
+        {
+            "course_id": 3,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 120,
+            "course_name": "Foundations of Data Science",
+            "course_abstract": "The first in a 3-course sequence (with CDS DS 121 and CDS DS 122) that     introduces  students to theoretical foundations of Data Science. Introduction   to   key concepts  from Calculus (differentiation and integration),  Probability    (discrete and  continuous random variables) and Linear Algebra  (vector spaces,    matrices, and  linear systems). The course   links mathematics and computational  thinking through   problem sets requiring   students to answer mathematically- posed questions  using  computation.   ",
+            "prereqs":["programming language such as Python is expected"],
+            "coreqs": ["CDSDS110 OR equivalent"],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+        }
+        {
+            "course_id": 4,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 121,
+            "course_name": "Foundations of Data Science II",
+            "course_abstract": "CDS 121 is the second in the three-course sequence (CDS DS 120, 121, 122) that     introduces students to theoretical foundations of Data Science. DS 121 covers an     introduction to key concepts from Linear Algebra (vector space, independence,     orthogonality and matrix factorizations). The DS theme running through the     course is exploratory data analysis, enabling a better understanding of the data     at hand. The course will link mathematical concepts with computational thinking,     specifically through the use of problem sets that require students to answer     mathematically-posed questions using computation.  Effective Fall 2021, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning I, Digital/Multimedia Expression, Critical Thinking.",
+            "prereqs":["CDSDS120 OR equivalent; CDSDS110 OR equivalent"],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+        }
+        {
+            "course_id": 5,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 122,
+            "course_name": "Foundations of Data Science III",
+            "course_abstract": "CDS DS 122 is the third in a three-course sequence (with CDS DS 120 and CDS DS     121) that introduces students to theoretical foundations of Data Science. DS 122     covers topics in probability (including common probability distributions,     conditional probability, independence, Bayes Theorem, prior and posterior     distributions, sampling, and the central limit theorem), statistics (including     maximum likelihood), basic numerical optimization (including gradient descent     methods), and topics in calculus (including sequences and series). Knowledge of     a programming language (such as Python) is expected.  Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Critical Thinking.",
+            "prereqs":["CDSDS121 OR equivalent"],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+        }
+        {
+            "course_id": 6,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 199,
+            "course_name": "CDS Workshops (1 credit)",
+            "course_abstract": "DS 199 workshops provide students the opportunity to develop elective skills and  competencies in computing and data science. Each workshop focuses on a subset of  skills and competencies necessary for students to engage in particular projects  and real-world experiences. Participation in projects pursued within specific co- Labs may require completion of specific workshops. DS 199 workshops will count for  1 credit.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 1,
+            "semesters": []
+        }
+        {
+            "course_id": 7,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 200,
+            "course_name": "Undergraduate Internship in Data Science",
+            "course_abstract": "This course is intended for undergraduate students interested in completing a summer internship in a data   science industry company. For international students, this course is required to use CPT. This course comes   with a tuition fee and is not repeatable. Please note that this course does not count toward major   requirements, but the 1 credit received from the course does count toward the graduation requirement of  128  credits. A 2.0 GPA is required to participate in DS 200.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 1,
+            "semesters": ["Fall", "Spring"]
+        }
+        {
+            "course_id": 8,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 209,
+            "course_name": "Spark! Software Engineering Immersion",
+            "course_abstract": "Students will be introduced to all concepts required to work on a modern web  development project. This course is intentionally taught with very little  prerequisite knowledge to enable students to begin learning these skills earlier  in their college path. Students begin by learning basic skills required to build a  functioning web application. During the second half of the course, students will  be allocated to teams and provided a choice of projects to develop over the course  of the semester. Students will submit their final application as their final  project on the last day of classes.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": []
+        }
+        {
+            "course_id": 9,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 210,
+            "course_name": "Programming for Data Science",
+            "course_abstract": "Second course in the CDS DS-110-210 sequence. The first half of DS 210 continues      the Python programming experience begun in  DS-110, with enhanced focus on      machine learning applications. The second half of the course introduces students      to  compiled programming languages, such as Rust, Go and Java, suitable for  building     large projects. Basic data structures  (stacks, queues, priority  queues, binary     search trees), techniques for representing graphs, and basic  graph algorithms      will be explored. Concepts are developed and reinforced  through consideration of     data-driven inquiries in real-world  settings. Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Digital/Multimedia Expression, Creativity/Innovation.  ",
+            "prereqs":["CDSDS110 OR equivalent"],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+        }
+        {
+            "course_id": 10,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 219,
+            "course_name": "Software Engineering Career Prep Practicum Workshop",
+            "course_abstract": "Taught by industry software veterans who serve as Spark! Engineers in Residence  in CDS, this 2-credit course presents students with an unadulterated view of  what they need to know as they take on software engineering projects, in  preparation for careers as full-stack software/data engineers. From a brass  tacks perspective, the course covers a number of tactical topics. The course  covers the language of modern software development including patterns, source  control, pull requests, open source, containerization, virtualization, and agile  vs waterfall development methods. Additionally, the course introduces students  to a few of the specialized professional software engineering and DevOps roles  in industry.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 2,
+            "semesters": ["Fall", "Spring"]
+        }
+        {
+            "course_id": 11,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 280,
+            "course_name": "Spark! UX/UI Design",
+            "course_abstract": "User experience design (UX) and user interface engineering (UI) is the design of user  interfaces and visualization for computer, information, and data products focusing on  maximizing usability and the user experience. Students complete a series of activities  within the UX Design toolkit developed by BU Spark! in collaboration with the Red Hat UX  Design team. Course covers basic steps of the UX Design process, beginning with user  insights and problem definition, empathy maps around personas, to user stories and lo- fidelity wireframes or story maps, to brand design and high fidelity wireframes. Effective Spring 2022, this course fulfills a single unit in the following BU Hub area: Digital/Multimedia Expression.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 2,
+            "semesters": ["Fall", "Spring"]
+        }
+        {
+            "course_id": 12,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 287,
+            "course_name": "Spark! Diversity and Equity in Data Science Workshop",
+            "course_abstract": "Designed to introduce students to the issues of diversity and equity in data   science. The first half of the course focuses on the larger sociological   implications of these inequalities - why they happen and why they matter. The   second half dives into the steps of data collection, analysis, and dissemination   on a practical level, identifying the problem points and potential solutions at   each level of the process.  Effective Spring 2023, this course fulfills a single  unit in the following BU Hub area: The Individual in Community ",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": ,
+            "semesters": []
+        }
+        {
+            "course_id": 13,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 288,
+            "course_name": "Spark! Workshop on Translating Computing & Data Science Concepts and Technologies   through Storytelling",
+            "course_abstract": "This course will cover the basics of storytelling as applied to complex technology  concepts, products, and outputs. Students will learn how to define the basic  elements of a story and to craft compelling narratives using words, images, and  other artifacts as applied to computing and data science topics and products.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 2,
+            "semesters": []
+        }
+        {
+            "course_id": 14,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 290,
+            "course_name": "Spark! Civic Tech Research Design Workshop",
+            "course_abstract": "This workshop focuses on how we learn from data. How do we identify and analyze   relationships in our data? What conclusions can we draw from our data, and how  applicable  are our conclusions to broader contexts? How do we communicate  effectively about our data  and analyses? How can we be critical consumers of  data and research, and identify issues  and limitations in how data is used by  data scientists, journalists, academics, and others?  Effective Spring 2023,  this course fulfills a single unit in the following BU Hub area: Research and  Information Literacy",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 2,
+            "semesters": []
+        }
+        {
+            "course_id": 15,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 291,
+            "course_name": "Spark! Exploring DEI in Tech",
+            "course_abstract": "This workshop will explore topics related to diversity,  equity, inclusion, and   justice (DEIJ) in the technology sector. The course will implement the  theory and  practice of DEIJ across the tech  sector. Students will start by gaining a  foundational  understanding of the concepts of identity, intersectionality, and   inclusive dialogue. They will  then apply this framework to understand issues of  DEIJ in the tech sector in Academia and   business, and the different technology  domains from AI to hardware. The second part of the course  will be focused on     allyship and action and includes a final project where students will use an   intersectional lens to assess a problem  they are passionate about and develop  solutions they  believe can have impact. Through this course, students will learn     how to engage in and  facilitate impactful discussions about diversity, equity,  inclusion and justice. Effective Spring 2022, this course fulfills a single unit in the following BU Hub area: The Individual in Community.",
+            "coreqs": [],
+            "credits": 2,
+            "semesters": ["Fall", "Spring"]
+        }
+       {
+        "course_id": 16,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 292,
+            "course_name": "Spark! Civic Tech Toolkit Workshop",
+            "course_abstract": "This workshop will cover essential programs, tools, and frequently used data    sets necessary to  work effectively on civic tech projects enabling greater    interdisciplinary engagement and  contextual understanding of the tools in an    applied context. Tools will include working with  GIS/ geospatial programming    languages, gaining familiarity with commonly used libraries and  packages in R    and Python, and leveraging data visualization tools like Tableau, Flourish, and     PowerBI. Additionally, the course will allow students to learn about and engage    with commonly  used civic tech data sets: census/ ACS data, elections data, land    use and housing, and  development data, data about criminal legal systems, and    more.  Effective Spring 2023, this course fulfills a single unit in the following BU Hub area: The Individual in Community.",
+            "coreqs": [],
+            "credits": 2,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 17,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 293,
+            "course_name": "Spark! Civic Tech Toolkit Workshop",
+            "course_abstract": "",
+            "coreqs": [],
+            "credits": 2,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 18,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 299,
+            "course_name": "CDS Workshops (2 credits)",
+            "course_abstract": "DS299 workshops provide students the opportunity to develop elective skills   and   competencies in computing and data science. Each workshop focuses on a subset of skills and   competencies necessary for students to engage in particular projects and real-world  experiences.  Participation in projects pursued within specific co-Labs may require  completion of specific  workshops. See CDS website for Spring 2022 course information:  https://www.bu.edu/cds-faculty/academics/undergraduate/courses/",
+            "coreqs": [],
+            "credits": 2,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 19,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 310,
+            "course_name": "Data Mechanics",
+            "course_abstract": "Course focused on developing students' capacity to design and implement data flows and the  computational workflows meant to inform online/offline decision-making within large  systems. Students explore the data science lifecycle, including question formulation, data  collection and cleaning (data wrangling), exploratory data analysis and visualization,  statistical inference and prediction, and decision-making. Relational (SQL) and MapReduce  (noSQL) paradigms used to assemble analysis, optimization, and decision-making algorithms  to track and scale data.",
+            "prereqs":["CDSDS110 AND CDSDS210"],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 20,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 320,
+            "course_name": "Algorithms for Data Science",
+            "course_abstract": "This course covers the fundamental principles underlying the design and analysis of  algorithms. We will walk through classical design methods, such as greedy algorithms, design  and conquer, and dynamic programming, focusing on applications in data science. We will also  study algorithmic methods more specific to data science and machine learning. The course  places a particular emphasis on algorithmic efficiency, crucial with large and/or streaming  data sets, for which multiple scans of data are infeasible, including the use of  approximation and randomized algorithms. Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Critical Thinking.",
+            "prereqs":["CDSDS110 or equivalent AND CDSDS122 or equivalent"],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 21,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 340,
+            "course_name": "Introduction to Machine Learning and AI",
+            "course_abstract": "This course instructs students in key algorithms for classic artificial  intelligence (AI) and  modern machine learning (ML). Along the way, we seek to  explore what kinds of problems these  techniques are good and bad at, and build  intuition for what makes a good search or machine  learning problem. The primary assessment tools will be programming problem sets in  Python, using  Jupyter notebooks.  Effective Fall 2022, this course fulfills a  single unit in each of the  following BU Hub areas: Ethical Reasoning,  Quantitative Reasoning II, Critical Thinking.",
+            "prereqs":["A second course in programming (CDSDS210 or equivalent) should be taken prior to this class, and algorithms (CDSDS320 or equivalent) shouldbe taken simultaneously with or prior to this class."],
+            "coreqs": ["CDSDS320 or equivalent can be taken as a co-requisite for this course."],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 22,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 380,
+            "course_name": "Data, Society and Ethics",
+            "course_abstract": "This course develops students' ability to critically examine and question the  interplay between data science and computational technologies on the one hand,  and society and public policy on the other. Students will complete exercises to  demonstrate their facility with key ethics tools and techniques, and analyze a  series of real-world case studies presented alongside ethical tools and analyses  that are useful both for staying alert to emerging ethical challenges and  responding to them as they arise in both employment settings and everyday life.   Effective Fall 2022, this course fulfills a single unit in each of the following  BU Hub areas: Ethical Reasoning, Social Inquiry II, Research and Information  Literacy. ",
+            "prereqs":["CDSDS110 AND CDSDS320"],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 23,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 381,
+            "course_name": "Social Justice for Data Science",
+            "course_abstract": "Society is becoming increasingly digitized and datafied. Important decisions impacting criminal justice, housing, finance, labor, healthcare, and education are frequently determined by or are aided by artificially intelligent algorithmic technologies that are built and trained on large datasets. The rise in these technologies presents a challenge for social justice. Though often presented as neutral decision aids, these technologies often produce harmful predictions that operate to reinforce old legacies of racial, class, gender, and heteropatriarchal subordination. Datafication practices, computational techniques, legal doctrine, and policy play a key role in facilitating these disparate outcomes. This course will center on the complicated relationship between social justice and data science. The course will introduce students to the historical and current role of datafication and computation practices in social subordination. Students will leave the course having developed the skill set needed to identify and critically engage with the social justice challenges posed by these new technologies",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 24,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 453,
+            "course_name": "Crypto for Data Science",
+            "course_abstract": "CDS DS 453 investigates techniques for performing trustworthy data analyses  without  a trusted party, and for conducting data science without data. The first  half of the  course investigates cryptocurrencies, the blockchain technology  underpinning them,  and the incentives for each participant, while the second half  of the course focuses  on privacy and anonymity using advanced tools from  cryptography. The course  concludes with a broader exploration into the power of  conducting data science  without being able to see the underlying data.",
+            "prereqs":["DS-122 and DS-320, or equivalent."],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": []
+       }
+       {
+        "course_id": 25,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 457,
+            "course_name": "Law for Algorithms",
+            "course_abstract": "Algorithms - those information-processing machines designed by humans - reach  ever more deeply into our lives, creating alternate and sometimes enhanced  manifestations of social and biological processes. In doing so, algorithms yield  powerful levers for good and ill amidst a sea of unforeseen consequences. This  crosscutting and interdisciplinary course investigates several aspects of  algorithms and their impact on society and law. Specifically, the course  connects concepts of proof, verifiability, privacy, security, trust, and  randomness in computer science with legal concepts of autonomy, consent,  governance, and liability, and examines interests at the evolving intersection  of technology and the law. Grades will be based on a combination of short weekly  reflection papers and a final project, to be completed collaboratively in mixed  teams of law and computer and data science students. This course will include  attendees from the computer science faculty, students and scholars based at  Boston University and UC Berkeley.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["2nd sem"]
+       }
+       {
+        "course_id": 26,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 471,
+            "course_name": "Spark! Technology Innovation Practicum",
+            "course_abstract": "",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": []
+       }
+       {
+        "course_id": 27,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 481,
+            "course_name": "Spark! Data Science for Good: Topics in Civic Tech",
+            "course_abstract": "This course enables students to tackle real world data challenges related to a  more equitable and just society. Students will work in teams on projects  addressing pressing societal challenges in the public sphere, provided by partners  from the public sector. Course emphasizes teamwork, client/project management,  data collection/engineering, analytics and/or software development, testing and  delivery of technical artifacts, and research and presentation of final  deliverables",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": []
+       }
+       {
+        "course_id": 28,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 482,
+            "course_name": "Responsible AI, Law, Ethics & Society",
+            "course_abstract": "Course page:  https://learn.responsibly.ai/. Instructor: shlomi@bu.edu. This course addresses the  deployment  of Artificial Intelligence systems in multiple domains of society, and how this raises  fundamental challenges  and concerns, such  as accountability, liability,  fairness, transparency and  privacy. Tackling these   challenges calls for an interdisciplinary  approach: deconstructing these   issues by discipline and  reconstructing with an integrated mindset, principles and practices between  data science, ethics and  law.  This unique course will bring together students from either computing  and data science disciplines or law and  public   policy disciplines from multiple institution. Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Teamwork/Collaboration.",
+            "prereqs":["CDSDS100/CDSDS110 (Intro to data science OR equivalent) and CDSDS340 (intro to ML and AI OR equivalent)"],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 29,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 488,
+            "course_name": "Spark! UX Design X-Lab Practicum",
+            "course_abstract": "This course gives students an opportunity to apply methods and practices of user experience design to real-world  projects. Students work in teams to address needs of industry partners for applying interactive software to solve  practical problems. Addresses all phases of the user experience design process from user research and discovery to  design and validation, with a focus on mastering techniques and methods for learning about users, applying design  thinking methods to conceive and iterate on solutions, and validating designs through user testing and feedback.",
+            "prereqs":["CDSDS280 OR equivalent"],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": []
+       }
+       {
+        "course_id": 30,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 490,
+            "course_name": "Directed Study in Computing & Data Sciences ",
+            "course_abstract": "Directed study in Computing & Data Sciences provides students the opportunity to  complete directed research in a selected topic not covered in a regularly  scheduled course under the supervision of a faculty member. Student and  supervising faculty member arrange and document expectations and requirements.  Examples include in-depth study of a special topic or independent research  project.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": ,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 31,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 499,
+            "course_name": "CDS Practicum Course",
+            "course_abstract": "Courses engage students in interdisciplinary   computing and data science  projects. Projects may support CDS co-Labs, in   partnership with internal and  external organizations. Opportunities to connect   computing and data sciences  with domain-specific knowledge and expertise to   advance co-Lab priorities.",
+            "prereqs":["consent of instructor"],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 32,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 519,
+            "course_name": "Spark! Software Engineering X-Lab Practicum ",
+            "course_abstract": "This course offers students in computing disciplines the opportunity to apply     their programming and  system development skills by working on real-world     projects provided from partnering organizations  within and outside of BU, which     are curated by Spark! The course offers a range of project options  where     students can improve their technical skills, while also gaining the soft skills     necessary to  deliver projects aligned to the partner's goals. These include     teamwork and communications skills  and software development processes. All     students participating in the course are expected to  complete a software     engineering project including a final presentation to the partner organization.    Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Oral and/or Signed Communication, Teamwork/Collaboration.",
+            "prereqs":["CDSDS310 OR CASCS411 OR equivalent experience in software developmentand consent of instructor. Consent provided upon successful completion of pass/fail diagnostic test to assess student readiness fo"],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": []
+       }
+       {
+        "course_id": 33,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 522,
+            "course_name": "Stochastic Methods for Algorithms",
+            "course_abstract": "Application of stochastic process theory to design and analyze algorithms used in statistics and machine learning, especially Markov chain Monte Carlo and stochastic optimization methods. Emphasizes connecting theoretical results to practice through combination of proofs, numerical experiments, and expository writing. Effective Fall 2023, this course fulfills a single unit in each of the following BU Hub areas: Writing-Intensive Course, Creativity/Innovation.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall"]
+       }
+       {
+        "course_id": 34,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 526,
+            "course_name": "Critical Reading in Biological Data Science",
+            "course_abstract": "The goal of this course is to provide students with a framework, skills, and knowledge to critically evaluate research in biological data science. Biological research is rarely unequivocal in its findings; students will learn to systematically identify the claims advanced in research papers and evaluate whether each claim is established beyond a reasonable doubt by supporting evidence. We will examine papers that both meet and fail this test. In today's biology, to properly examine a paper in this way it is increasingly important to engage with the data provided as supporting evidence, and to critically examine the computational approach. Students will work with published data and computational tools. Further, students will learn to identify the ideology implicit in each paper, to understand how ideology shapes both the research questions and approach, and to imagine the same research under an alternative mindset. Classes will be split into lectures on background material for each paper and group discussions. Students will work in small groups to write a report on each paper. Each student will work on a final project to produce a critical review of a broader topic in the field.",
+            "prereqs": ["CDSDS 120, 121, and 122 or equivalent; ENGBE 562 or equivalent or experience with computational biology"],
+            "coreqs":[],
+            "credits": 4,
+            "semesters": ["Fall"]
+       }
+       {
+        "course_id": 35,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 537,
+            "course_name": "Data Science for Conservation Decisions",
+            "course_abstract": "This course covers the application of quantitative methods to support   conservation decisions. Ecosystem value mapping, systematic conservation   planning, policy instrument design, rigorous impact evaluation, decision  theory,  data visualization. Implementations in state-of-the-art open-source  software.  Real-life case studies from the U.S. and abroad.  Effective Fall  2021, this course fulfills a single unit in each of the following BU Hub  areas: Digital/Multimedia Expression, Quantitative Reasoning II, Research  and Information Literacy.",
+            "prereqs": ["CASGE/EE 270 or equivalent; GE/EE 375 or equivalent; or consent of instructor."],
+            "coreqs":[],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 36,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 539,
+            "course_name": "Spark! Data Science X-Lab Practicum",
+            "course_abstract": "",
+            "prereqs": ["CASCS506 or equivalent preferred. CDSDSDS110 OR CASCS111 OR CASCS112 OR equivalent. CDSDS121 OR CASCS132 OR equivalent required. Or instructor consent which may involve pass/fail diagnostic test."],
+            "coreqs":[],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 37,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 541,
+            "course_name": "Agent-Based Modeling of People, Health, and the Environment",
+            "course_abstract": "Agent-based models are an ideal tool for analyzing systems (cities, economies, road networks, forests) in which the outcomes of interest (illness rates, traffic problems, land use, violence) are shaped strongly by interactions among individual 'agents' (drivers, consumers, farmers, spouses) with each other and their environments. This course builds skills in the use of agent-based modeling using the NetLogo platform as a tool for analyzing complex human- environment problems. The course will emphasize the iterative model-building process -- forming research questions, building conceptual and then operational models, experimenting, and then refining -- to address current research problems. Students should expect to commit time outside of meetings to i) gaining comfort with NetLogo syntax; ii) reading current research in the areas of agent-based modeling and human environment and health problems; and iii) a team based approach to building models.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 38,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 549,
+            "course_name": "Spark! Machine Learning X-Lab Practicum ",
+            "course_abstract": "The Spark! Practicum offers students in computing disciplines the opportunity to   apply their knowledge in  algorithms, inferential analytics, and software   development by working on real-world projects provided from  partnering   organizations within BU and from outside. The course offers a range of project   options where  students can improve their technical skills, while also gaining   the soft skills necessary to deliver  projects aligned to the partner's goals.   These include teamwork and communications skills and software  development   processes. All students participating in the course are expected to complete a   project  focused on an application of inferential analytics or machine learning,   including a final presentation to  the partner organization.  Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Research and Information Literacy, Teamwork/Collaboration.",
+            "prereqs": ["CDSDS340 OR CASCS542 OR CASCS505 OR CASCS585 OR consent of instructor. Consent may include the successful completion of a pass/fail diagnostic test that will assess student readiness to take the course"],
+            "coreqs":[],
+            "credits": 4,
+            "semesters": []
+       }
+       {
+        "course_id": 39,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 561,
+            "course_name": "Software Engineering Development on Modern Cloud Environments",
+            "course_abstract": "Most of today's organizations needing a technology solution look to satisfy their computing, storage and networking needs through one of the large public cloud providers. Unlike traditional environments where a company had to build its own infrastructure often at large time and monetary expense it can now rent what it needs at the click of a button. In this course we will provide hands on experience with one of the large public cloud platforms. In particular we will look into the different flavors of compute, storage and networking available, how best to use them to solve interesting problems, and how to do everything on a constrained budget. Students will get accounts and deliver project work on the public cloud while also learning some of the fundamental principles on how those different cloud systems work under the covers. It is recommended that students taking this class have learned the basic principles of Computer Systems such as those taught in DS210 and/or CS210.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 40,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 563,
+            "course_name": "Algorithmic Techniques for Taming Big Data",
+            "course_abstract": "Growing amounts of available data lead to significant challenges in processing    them efficiently.  In many cases, it is no longer possible to design feasible    algorithms that can freely access the  entire data set. Instead of that we often    have to resort to techniques that allow for reducing  the amount of data such as    sampling, sketching, dimensionality reduction, and core sets. Apart  from these    approaches, the course will also explore scenarios in which large data sets are     distributed across several machines or even geographical locations and the goal    is to design  efficient communication protocols or MapReduce algorithms. The    course will include a final  project and programming assignments in which we  will   explore the performance of our techniques  when applied to publicly  available   data sets.  ",
+            "prereqs": ["CDSDS110 OR CASCS111 OR ENGEK125 OR equivalent; CDSDS320 OR CASCS330 OR ENGEC330 OR equivalent; CDSDS121 OR CASCS132 OR CASMA242 OR equivalent; CASMA115 OR CASCS327 OR ENGEK381 OR equivalent, OR conse"],
+            "coreqs":[],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 41,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 574,
+            "course_name": "Algorithmic Mechanism Design",
+            "course_abstract": "This course is an introduction to the interdisciplinary area of Algorithmic Mechanism Design: where computational perspectives are applied to economic problems, and economic techniques are brought to problems from computer science.  We will explore a broad range of topics at the frontier of new research, starting with some of the fundamentals, such as welfare-maximizing auctions and types of Nash Equilibria.  Throughout the semester, the class will also learn about prevalent topics such as (1) Data Science & Incentives, (2) Mechanism Design for Social Good, and (3) optimization and robustness in mechanism design.    ",
+            "prereqs": ["CDSDS122, CDSDS320, and CASMA581 or instructor approval"],
+            "coreqs":[],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 42,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 587,
+            "course_name": "Data Science in Human Contexts",
+            "course_abstract": "Where do statistical and computational insights lose historic social contexts? What are the impacts of datafication on individuals and communities? How do social and technical systems reify or challenge social hierarchies? Through a survey of academic literature, community-produced knowledge and coverage of technology in the popular press, this course will explore these themes as they relate to labor and automation, surveillance and the legal system, social media governance, and digital inclusion.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 43,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 590,
+            "course_name": "CDS Research Initiation Seminar",
+            "course_abstract": "The first--year doctoral seminar is a required two--semester cohort--based  course (4 credits) that must be taken during the first full academic year  that a student enrolls in the PhD program in CDS. It is divided into two  parts, each providing 2 credits. "CDS Research Initiation Seminar" is  offered in the fall semester, and "CDS Research Development Seminar" is  offered in the spring semester. The seminar serves three key purposes: 1. It  introduces students to the scholarship of (and the rich set of research  projects pursued by) the CDS faculty and their guests through colloquia  pitched to a multidisciplinary audience. 2. It guides students through the  challenging transition into the graduate program in CDS by introducing them  to the variety of skills and capacities that are needed to succeed as a  scholar. 3. It engenders a sense of community amongst the group of students  entering the program as a cohort. 4 cr. Either sem.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 44,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 592,
+            "course_name": "Special Topics in Mathematical and Computational Sciences",
+            "course_abstract": "Spring 2022: Stochastic Processes for the Design and Analysis of Algorithms.  Introduction  to interplay between stochastic processes and algorithms used in  statistics and machine  learning. Covers core stochastic processes concepts and  use to design and analyze  algorithms for sampling and large-scale stochastic  optimization. Strong emphasis on  practical implications of results.    ",
+            "prereqs": ["CASMA242 or equivalent AND CASMA581 or equivalent AND experience writing scientific code"],
+            "coreqs":[],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 45,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 593,
+            "course_name": "Special Topics in Data Science",
+            "course_abstract": "For Spring 2023 - Building AI Solutions for the Real World: a Case Study of   Conversational Systems: Applying Artificial Intelligence (AI) technology in the  real-world goes beyond  implementing the latest and greatest neural network  model to solve a prediction  model. In this course, we look to explore how real- world constraints and  considerations like ethics and liability affect the  adoption of AI in real-world  applications. We focus on conversational systems  in various domains as the  running use case throughout the course to explore  various AI technologies from  the shallow models of the 2000s to the more recent  deep learning architectures.  Upon completion of this course, students will be  building different types of AI  models, and gain a deeper understanding of what  it takes to train, test, and  deploy AI-based applications in real-world  settings.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 46,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 594,
+            "course_name": "Special Topics in Economics, Management, and Information Sciences",
+            "course_abstract": "Coverage of a specific topic in relation to economics, management, and  information sciences in data science. Topics vary semester to semester.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 47,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 595,
+            "course_name": "Special Topics in Physical and Engineering Sciences",
+            "course_abstract": "Coverage of a specific topic in relation to physical and engineering sciences  in data science. Topics vary semester to semester. ",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 48,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 596,
+            "course_name": "Special Topics in Natural, Biological and Medical Sciences",
+            "course_abstract": "Coverage of a specific topic in relation to natural, biological and medical  sciences in data science. Topics vary semester to semester.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 49,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 597,
+            "course_name": "Special Topics in Social and Behavioral Sciences",
+            "course_abstract": "Coverage of a specific topic in relation to social and behavioral sciences in  data science. Topics vary semester to semester.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 50,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 598,
+            "course_name": "Special Topics in Media, Arts and Humanities",
+            "course_abstract": "Coverage of a specific topic in relation to media, arts and the humanities in  data science. Topics vary semester to semester.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 51,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 599,
+            "course_name": "CDS Research Development Seminar",
+            "course_abstract": "The first--year doctoral seminar is a required two--semester cohort--based  course (4 credits) that must be taken during the first full academic year  that a student enrolls in the PhD program in CDS. It is divided into two  parts, each providing 2 credits. "CDS Research Initiation Seminar" is  offered in the fall semester, and "CDS Research Development Seminar" is  offered in the spring semester. The seminar serves three key purposes: 1. It  introduces students to the scholarship of (and the rich set of research  projects pursued by) the CDS faculty and their guests through colloquia  pitched to a multidisciplinary audience. 2. It guides students through the  challenging transition into the graduate program in CDS by introducing them  to the variety of skills and capacities that are needed to succeed as a  scholar. 3. It engenders a sense of community amongst the group of students  entering the program as a cohort. 4 cr. Either sem.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 52,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 644,
+            "course_name": "Machine Learning for Business Analytics",
+            "course_abstract": "The internet has become a ubiquitous channel for reaching consumers and  gathering massive amounts of business-intelligence data. This course will teach  students how to perform hands-on analytics on such datasets using modern machine  learning techniques through series a lectures and in- class team exercises.  Students will analyze data using the R programming language, derive actionable  insights from the data, and present their &#64257;ndings. The goal of the course is to  create an understanding of modern analytics methods, and the types of problems  they can be applied to. The course is open to students with or without a  technical background who are interested in analytics. While no prior programming  experience is required, students will learn the fundamentals of the R  programming language to build and evaluate predictive models.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 3,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id":53,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 653,
+            "course_name": "Crypto for Data Science",
+            "course_abstract": "This course investigates techniques for performing trustworthy data analyses   without  a trusted party, and for conducting data science without data. The  first  half of the  course investigates cryptocurrencies, the blockchain  technology  underpinning them,  and the incentives for each participant, while  the second half  of the course focuses  on privacy and anonymity using advanced  tools from  cryptography. The course  concludes with a broader exploration into  the power of  conducting data science  without being able to see the underlying  data.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 54,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 657,
+            "course_name": "Law for Algorithms",
+            "course_abstract": "Algorithms - those information-processing machines designed by humans -  reach ever more deeply into our lives, creating alternate and sometimes  enhanced manifestations of social and biological processes. In doing so,  algorithms yield powerful levers for good and ill amidst a sea of unforeseen  consequences. This crosscutting and interdisciplinary course investigates  several aspects of algorithms and their impact on society and law.  Specifically, the course connects concepts of proof, verifiability, privacy,  security, trust, and randomness in computer science with legal concepts of  autonomy, consent, governance, and liability, and examines interests at the  evolving intersection of technology and the law. Grades will be based on a  combination of short weekly reflection papers and a final project, to be  completed collaboratively in mixed teams of law and computer and data  science students. This course will include attendees from the computer  science faculty, students and scholars based at Boston University and UC  Berkeley.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 55,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 680,
+            "course_name": "AI Ethics",
+            "course_abstract": "This course develops students' ability to critically examine and question the interplay between data science and computational technologies on the one hand, and society and public policy on the other. Students will complete exercises to demonstrate their facility with key ethics tools and techniques, and analyze a series of real-world case studies presented alongside ethical tools and analyses that are useful both for staying alert to emerging ethical challenges and responding to them as they arise in both employment settings and everyday life.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 56,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 682,
+            "course_name": "Responsible AI, Law, Ethics & Society",
+            "course_abstract": "The deployment of Arti&#64257;cial Intelligence systems in multiple domains of society raises fundamental  challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The  dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be  applied throughout the life cycle of such systems: design, development and deployment. It also  involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists.  Tackling these challenges calls for an interdisciplinary approach: deconstructing these issues by  discipline and reconstructing with an integrated mindset, principles and practices between data  science, ethics and law. This course aims to do so by bringing together students with diverse  disciplinary backgrounds into teams that work together on joint tasks in an intensive series of in- class sessions. These sessions will include lectures, discussions, and group work. This unique  course will bring together students from multiple institutions, each contributing undergraduate  students from either computing and data science disciplines or from law and public policy  disciplines.",
+            "prereqs": ["CDSDS100/CDSDS110 (Intro to data science OR equivalent) and CDSDS340 (intro to ML and AI OR equivalent)"],
+            "coreqs":[],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 57,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 690,
+            "course_name": "Directed Study in Computing & Data Sciences ",
+            "course_abstract": "Directed study in Computing & Data Sciences provides students the opportunity to  complete directed research in a selected topic not covered in a regularly  scheduled course under the supervision of a faculty member. Student and  supervising faculty member arrange and document expectations and requirements.  Examples include in-depth study of a special topic or independent research  project.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": ,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 58,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 699,
+            "course_name": "Advanced Topics in Data Science",
+            "course_abstract": "Various advanced topics in data science that vary semester to semester. Please  contact CDS for detailed descriptions.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 59,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 701,
+            "course_name": "Tools for Data Science",
+            "course_abstract": "This is a new course to be designed specifically for the MS DS program. Students will take this course in their first semester. The goal of the course is to give students exposure to, and practical experience in, formulating data science questions -- particularly learning how to ask good questions in a specific domain. The course will also cover methods of obtaining data and common methods of processing data from a practical standpoint. It will be organized around a semester-long group project in which students are organized into teams and engage with "clients" who bring data science questions from a particular domain. The course will include a formal presentation of results at the end of the semester.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 4,
+            "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 60,
+            "college": "CDS",
+            "department": "DS",
+            "course_number": 900,
+            "course_name": "Graduate Internship in Computing & Data Sciences",
+            "course_abstract": "For graduate students in Computing & Data Science, this internship course gives  students substantive practical experience in industry. This course may be taken  with approval from the PhD program. Bi-weekly and final reports required.",
+            "prereqs":[],
+            "coreqs": [],
+            "credits": 1,
+            "semesters": []
+       }
+       {
+        "course_id": 61,
+        "college": "CDS",
+        "department": "DS",
+        "course_number": 990,
+        "course_name": "Computing & Data Sciences Lab Rotation",
+        "course_abstract": "Experience with translational or applied research pursued in an industrial or  laboratory setting is important for in-the-field graduate training. To provide  this training, graduate students may complete a lab rotation that provides them  with the opportunity to (1) explore lab settings and industrial collaborations  that may be relevant to their thesis work; (2) experience the diversity of  applied and in-the-field research styles in computing and data sciences; and (3)  expand their external network of potential research ",
+        "prereqs":[],
+        "coreqs": [],
+        "credits": 4,
+        "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 62,
+        "college": "CDS",
+        "department": "DS",
+        "course_number": 991,
+        "course_name": "Computing & Data Sciences Research Rotation ",
+        "course_abstract": "Experience with diverse research group projects and styles are an essential part   of graduate training. To provide this training, graduate students are expected   to complete a series of research rotations that provide them with the   opportunity to (1) explore research groups where they may pursue future thesis   work; (2) experience the diversity of sub-disciplines and research styles in   computing and data sciences; and (3) expand their network of potential research   collaborators. Before beginning a rotation, students are expected to discuss   their plans with the faculty leadership of the BU research group ",
+        "prereqs":[],
+        "coreqs": [],
+        "credits": 4,
+        "semesters": ["Fall", "Spring"]
+       }
+       {
+        "course_id": 63,
+        "college": "CDS",
+        "department": "DS",
+        "course_number": 992,
+        "course_name": "Computing & Data Sciences Research Rotation",
+        "course_abstract": "Experience with diverse research group projects and styles are an essential part   of graduate training. To provide this training, graduate students are expected   to complete a series of research rotations that provide them with the   opportunity to (1) explore research groups where they may pursue future thesis   work; (2) experience the diversity of sub-disciplines and research styles in   computing and data sciences; and (3) expand their network of potential research   collaborators. Before beginning a rotation, students are ",
+        "prereqs":[],
+        "coreqs": [],
+        "credits": 4,
+        "semesters": ["Fall", "Spring"]
+       }
+       
+    ]
+}
