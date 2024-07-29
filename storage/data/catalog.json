@@ -11,7 +11,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-        }
+        },
         {
             "course_id": 2,
             "college": "CDS",
@@ -23,7 +23,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-        }
+        },
         {
             "course_id": 3,
             "college": "CDS",
@@ -35,7 +35,7 @@
             "coreqs": ["CDSDS110 OR equivalent"],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-        }
+        },
         {
             "course_id": 4,
             "college": "CDS",
@@ -47,7 +47,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-        }
+        },
         {
             "course_id": 5,
             "college": "CDS",
@@ -59,7 +59,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-        }
+        },
         {
             "course_id": 6,
             "college": "CDS",
@@ -71,7 +71,7 @@
             "coreqs": [],
             "credits": 1,
             "semesters": []
-        }
+        },
         {
             "course_id": 7,
             "college": "CDS",
@@ -83,7 +83,7 @@
             "coreqs": [],
             "credits": 1,
             "semesters": ["Fall", "Spring"]
-        }
+        },
         {
             "course_id": 8,
             "college": "CDS",
@@ -95,7 +95,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": []
-        }
+        },
         {
             "course_id": 9,
             "college": "CDS",
@@ -107,7 +107,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-        }
+        },
         {
             "course_id": 10,
             "college": "CDS",
@@ -119,7 +119,7 @@
             "coreqs": [],
             "credits": 2,
             "semesters": ["Fall", "Spring"]
-        }
+        },
         {
             "course_id": 11,
             "college": "CDS",
@@ -131,7 +131,7 @@
             "coreqs": [],
             "credits": 2,
             "semesters": ["Fall", "Spring"]
-        }
+        },
         {
             "course_id": 12,
             "college": "CDS",
@@ -141,9 +141,9 @@
             "course_abstract": "Designed to introduce students to the issues of diversity and equity in data   science. The first half of the course focuses on the larger sociological   implications of these inequalities - why they happen and why they matter. The   second half dives into the steps of data collection, analysis, and dissemination   on a practical level, identifying the problem points and potential solutions at   each level of the process.  Effective Spring 2023, this course fulfills a single  unit in the following BU Hub area: The Individual in Community ",
             "prereqs":[],
             "coreqs": [],
-            "credits": ,
+            "credits": 99,
             "semesters": []
-        }
+        },
         {
             "course_id": 13,
             "college": "CDS",
@@ -155,7 +155,7 @@
             "coreqs": [],
             "credits": 2,
             "semesters": []
-        }
+        },
         {
             "course_id": 14,
             "college": "CDS",
@@ -167,7 +167,7 @@
             "coreqs": [],
             "credits": 2,
             "semesters": []
-        }
+        },
         {
             "course_id": 15,
             "college": "CDS",
@@ -178,7 +178,7 @@
             "coreqs": [],
             "credits": 2,
             "semesters": ["Fall", "Spring"]
-        }
+        },
        {
         "course_id": 16,
             "college": "CDS",
@@ -189,7 +189,7 @@
             "coreqs": [],
             "credits": 2,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 17,
             "college": "CDS",
@@ -200,7 +200,7 @@
             "coreqs": [],
             "credits": 2,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 18,
             "college": "CDS",
@@ -211,7 +211,7 @@
             "coreqs": [],
             "credits": 2,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 19,
             "college": "CDS",
@@ -223,7 +223,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 20,
             "college": "CDS",
@@ -235,7 +235,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 21,
             "college": "CDS",
@@ -247,7 +247,7 @@
             "coreqs": ["CDSDS320 or equivalent can be taken as a co-requisite for this course."],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 22,
             "college": "CDS",
@@ -259,7 +259,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 23,
             "college": "CDS",
@@ -271,7 +271,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 24,
             "college": "CDS",
@@ -283,7 +283,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": []
-       }
+       },
        {
         "course_id": 25,
             "college": "CDS",
@@ -295,7 +295,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["2nd sem"]
-       }
+       },
        {
         "course_id": 26,
             "college": "CDS",
@@ -307,7 +307,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": []
-       }
+       },
        {
         "course_id": 27,
             "college": "CDS",
@@ -319,7 +319,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": []
-       }
+       },
        {
         "course_id": 28,
             "college": "CDS",
@@ -331,7 +331,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 29,
             "college": "CDS",
@@ -343,7 +343,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": []
-       }
+       },
        {
         "course_id": 30,
             "college": "CDS",
@@ -353,9 +353,9 @@
             "course_abstract": "Directed study in Computing & Data Sciences provides students the opportunity to  complete directed research in a selected topic not covered in a regularly  scheduled course under the supervision of a faculty member. Student and  supervising faculty member arrange and document expectations and requirements.  Examples include in-depth study of a special topic or independent research  project.",
             "prereqs":[],
             "coreqs": [],
-            "credits": ,
+            "credits": 99,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 31,
             "college": "CDS",
@@ -367,7 +367,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 32,
             "college": "CDS",
@@ -379,7 +379,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": []
-       }
+       },
        {
         "course_id": 33,
             "college": "CDS",
@@ -391,7 +391,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall"]
-       }
+       },
        {
         "course_id": 34,
             "college": "CDS",
@@ -403,7 +403,7 @@
             "coreqs":[],
             "credits": 4,
             "semesters": ["Fall"]
-       }
+       },
        {
         "course_id": 35,
             "college": "CDS",
@@ -415,7 +415,7 @@
             "coreqs":[],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 36,
             "college": "CDS",
@@ -427,7 +427,7 @@
             "coreqs":[],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 37,
             "college": "CDS",
@@ -439,7 +439,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 38,
             "college": "CDS",
@@ -451,7 +451,7 @@
             "coreqs":[],
             "credits": 4,
             "semesters": []
-       }
+       },
        {
         "course_id": 39,
             "college": "CDS",
@@ -463,7 +463,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 40,
             "college": "CDS",
@@ -475,7 +475,7 @@
             "coreqs":[],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 41,
             "college": "CDS",
@@ -487,7 +487,7 @@
             "coreqs":[],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 42,
             "college": "CDS",
@@ -499,19 +499,19 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 43,
             "college": "CDS",
             "department": "DS",
             "course_number": 590,
             "course_name": "CDS Research Initiation Seminar",
-            "course_abstract": "The first--year doctoral seminar is a required two--semester cohort--based  course (4 credits) that must be taken during the first full academic year  that a student enrolls in the PhD program in CDS. It is divided into two  parts, each providing 2 credits. "CDS Research Initiation Seminar" is  offered in the fall semester, and "CDS Research Development Seminar" is  offered in the spring semester. The seminar serves three key purposes: 1. It  introduces students to the scholarship of (and the rich set of research  projects pursued by) the CDS faculty and their guests through colloquia  pitched to a multidisciplinary audience. 2. It guides students through the  challenging transition into the graduate program in CDS by introducing them  to the variety of skills and capacities that are needed to succeed as a  scholar. 3. It engenders a sense of community amongst the group of students  entering the program as a cohort. 4 cr. Either sem.",
+            "course_abstract": "The first--year doctoral seminar is a required two--semester cohort--based  course (4 credits) that must be taken during the first full academic year  that a student enrolls in the PhD program in CDS. It is divided into two  parts, each providing 2 credits. \"CDS Research Initiation Seminar\" is  offered in the fall semester, and \"CDS Research Development Seminar\" is  offered in the spring semester. The seminar serves three key purposes: 1. It  introduces students to the scholarship of (and the rich set of research  projects pursued by) the CDS faculty and their guests through colloquia  pitched to a multidisciplinary audience. 2. It guides students through the  challenging transition into the graduate program in CDS by introducing them  to the variety of skills and capacities that are needed to succeed as a  scholar. 3. It engenders a sense of community amongst the group of students  entering the program as a cohort. 4 cr. Either sem.",
             "prereqs":[],
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 44,
             "college": "CDS",
@@ -523,7 +523,7 @@
             "coreqs":[],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 45,
             "college": "CDS",
@@ -535,7 +535,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 46,
             "college": "CDS",
@@ -547,7 +547,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 47,
             "college": "CDS",
@@ -559,7 +559,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 48,
             "college": "CDS",
@@ -571,7 +571,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 49,
             "college": "CDS",
@@ -583,7 +583,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 50,
             "college": "CDS",
@@ -595,19 +595,19 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 51,
             "college": "CDS",
             "department": "DS",
             "course_number": 599,
             "course_name": "CDS Research Development Seminar",
-            "course_abstract": "The first--year doctoral seminar is a required two--semester cohort--based  course (4 credits) that must be taken during the first full academic year  that a student enrolls in the PhD program in CDS. It is divided into two  parts, each providing 2 credits. "CDS Research Initiation Seminar" is  offered in the fall semester, and "CDS Research Development Seminar" is  offered in the spring semester. The seminar serves three key purposes: 1. It  introduces students to the scholarship of (and the rich set of research  projects pursued by) the CDS faculty and their guests through colloquia  pitched to a multidisciplinary audience. 2. It guides students through the  challenging transition into the graduate program in CDS by introducing them  to the variety of skills and capacities that are needed to succeed as a  scholar. 3. It engenders a sense of community amongst the group of students  entering the program as a cohort. 4 cr. Either sem.",
+            "course_abstract": "The first--year doctoral seminar is a required two--semester cohort--based  course (4 credits) that must be taken during the first full academic year  that a student enrolls in the PhD program in CDS. It is divided into two  parts, each providing 2 credits. \"CDS Research Initiation Seminar\" is  offered in the fall semester, and \"CDS Research Development Seminar\" is  offered in the spring semester. The seminar serves three key purposes: 1. It  introduces students to the scholarship of (and the rich set of research  projects pursued by) the CDS faculty and their guests through colloquia  pitched to a multidisciplinary audience. 2. It guides students through the  challenging transition into the graduate program in CDS by introducing them  to the variety of skills and capacities that are needed to succeed as a  scholar. 3. It engenders a sense of community amongst the group of students  entering the program as a cohort. 4 cr. Either sem.",
             "prereqs":[],
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 52,
             "college": "CDS",
@@ -619,7 +619,7 @@
             "coreqs": [],
             "credits": 3,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id":53,
             "college": "CDS",
@@ -631,7 +631,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 54,
             "college": "CDS",
@@ -643,7 +643,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 55,
             "college": "CDS",
@@ -655,7 +655,7 @@
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 56,
             "college": "CDS",
@@ -667,7 +667,7 @@
             "coreqs":[],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 57,
             "college": "CDS",
@@ -679,31 +679,31 @@
             "coreqs": [],
             "credits": ,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 58,
             "college": "CDS",
             "department": "DS",
             "course_number": 699,
             "course_name": "Advanced Topics in Data Science",
-            "course_abstract": "Various advanced topics in data science that vary semester to semester. Please  contact CDS for detailed descriptions.",
+            "course_abstract": "Various advanced topics in data science that vary semester to semester. Please contact CDS for detailed descriptions.",
             "prereqs":[],
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 59,
             "college": "CDS",
             "department": "DS",
             "course_number": 701,
             "course_name": "Tools for Data Science",
-            "course_abstract": "This is a new course to be designed specifically for the MS DS program. Students will take this course in their first semester. The goal of the course is to give students exposure to, and practical experience in, formulating data science questions -- particularly learning how to ask good questions in a specific domain. The course will also cover methods of obtaining data and common methods of processing data from a practical standpoint. It will be organized around a semester-long group project in which students are organized into teams and engage with "clients" who bring data science questions from a particular domain. The course will include a formal presentation of results at the end of the semester.",
+            "course_abstract": "This is a new course to be designed specifically for the MS DS program. Students will take this course in their first semester. The goal of the course is to give students exposure to, and practical experience in, formulating data science questions -- particularly learning how to ask good questions in a specific domain. The course will also cover methods of obtaining data and common methods of processing data from a practical standpoint. It will be organized around a semester-long group project in which students are organized into teams and engage with \"clients\" who bring data science questions from a particular domain. The course will include a formal presentation of results at the end of the semester.",
             "prereqs":[],
             "coreqs": [],
             "credits": 4,
             "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 60,
             "college": "CDS",
@@ -715,7 +715,7 @@
             "coreqs": [],
             "credits": 1,
             "semesters": []
-       }
+       },
        {
         "course_id": 61,
         "college": "CDS",
@@ -727,7 +727,7 @@
         "coreqs": [],
         "credits": 4,
         "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 62,
         "college": "CDS",
@@ -739,7 +739,7 @@
         "coreqs": [],
         "credits": 4,
         "semesters": ["Fall", "Spring"]
-       }
+       },
        {
         "course_id": 63,
         "college": "CDS",
